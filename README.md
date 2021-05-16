@@ -1,2 +1,2 @@
 # Conea
-Friendly Real-Time Developer
+Friendly Software Developer
